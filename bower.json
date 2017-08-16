@@ -15,7 +15,7 @@
   "private": true,
   "ignore": [],
   "dependencies": {
-    "iron-location": "mgibas/iron-location#1 - 2",
+    "iron-location": "git@github.com:mgibas/iron-location#1 - 2",
     "polymer": "Polymer/polymer#1.9 - 2"
   },
   "devDependencies": {
