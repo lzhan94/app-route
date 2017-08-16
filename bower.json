@@ -37,7 +37,7 @@
   "variants": {
     "1.x": {
       "dependencies": {
-        "iron-location": "polymerelements/iron-location#^0.8.1",
+        "iron-location": "https://github.com/mgibas/iron-location",
         "polymer": "Polymer/polymer#^1.9"
       },
       "devDependencies": {
@@ -56,7 +56,9 @@
         "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
       },
       "resolutions": {
-        "webcomponentsjs": "^0.7"
+        "webcomponentsjs": "^0.7",
+        "iron-location": "*"
+        
       }
     }
   },
